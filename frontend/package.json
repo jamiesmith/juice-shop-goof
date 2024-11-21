@@ -22,7 +22,7 @@
     "@angular/compiler-cli": "^15.0.4",
     "@angular/core": "^15.0.4",
     "@angular/flex-layout": "10.0.0-beta.32",
-    "@angular/forms": "^15.0.4",
+    "@angular/forms": "^18.2.10",
     "@angular/http": "^8.0.0-beta.10",
     "@angular/material": "^14.0.4",
     "@angular/platform-browser": "^15.0.4",
